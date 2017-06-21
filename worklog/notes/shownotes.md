@@ -41,3 +41,14 @@ And excellent focus on documentation. It's a core focus! And a freebie when
 you use a typed, functional language.
 
 SUPER friendly error messages! Yay!
+
+## Feature: Maintainability
+
+Once you make a "new thing" and push it out, that's one thing. But as the core
+team drifts, and new developers are working to maintain the original thing,
+Dragons enter.
+
+### How do they help this?
+
+- Static Type Checking (aware of use cases you may not be aware of)
+- Automatic Semantic Versioning (old vs new lib comparisons)

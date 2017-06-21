@@ -1,6 +1,6 @@
 # Current Working Goal
 
-Review course materials
+Get elm working locally, and try it out
 
 ## Next Goal
 

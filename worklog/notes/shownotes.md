@@ -52,3 +52,19 @@ Dragons enter.
 
 - Static Type Checking (aware of use cases you may not be aware of)
 - Automatic Semantic Versioning (old vs new lib comparisons)
+
+## Other
+
+Pure functional
+Interop with JavaScript (designed to work with existing JS)
+Virtual DOM (like react) You update state, Elm decides
+Rich error messages built-in
+
+**Bold Claim** Zero Runtime Exceptions
+
+While it is certainly possible that you, as a developer, can introduce
+business logic errors, there are Elm applications that have been running,
+in production, **for years** that have suffered zero runtime exceptions.
+
+It just rarely happens that an Elm application runs into a situation that
+it wasn't prepared to handle and fails.

@@ -25,3 +25,19 @@ ELM is WELL documented. Tutorials, example applications, etc.
 
 **Friendly error messages!!** The compiler knows what you're trying to do,
 and what you should do to be safe.
+
+## Feature: Usability
+
+Elm tries to use obvious names. You won't see a lot of mentions about 'monads'
+in the documentation. It is focused on the core audience trying to just
+build awesome stuff.
+
+hint: monads are used all the time, but we won't call them that.
+
+Excellent tooling! Most languages/frameworks succeed or fail based on their
+tooling.
+
+And excellent focus on documentation. It's a core focus! And a freebie when
+you use a typed, functional language.
+
+SUPER friendly error messages! Yay!

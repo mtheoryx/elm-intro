@@ -1,9 +1,15 @@
 # Current Working Goal
 
-Configure project for elm
+Review course materials
 
 ## Next Goal
 
-Simple hello world elm app working
+Non-web REPL setup for elm to experiment
 
 ## Goals
+
+- [x] Course Overview
+- [ ] Core Language Concepts
+- [ ] Making Applications with Elm
+- [ ] Creating Projects with Elm
+- [ ] Wrapup and next steps
